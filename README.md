@@ -34,10 +34,6 @@ Also built in:
 - **Prep for a specific job**: paste a job posting. The coach reads it on your Mac and
   writes questions matched to the role and its level, from first job to VP, for you to
   review before you practice.
-- **Discover directions**: for anyone not sure what they want yet. In about 15 minutes
-  the coach asks what you enjoy and what matters to you, then suggests three jobs to
-  explore, each with one small thing to try. It's general guidance, not a licensed
-  counselor.
 - **Ask in your own words**: "slow down", "give me an example", "skip this one". The
   coach waits until you've finished talking before it replies, and you can choose how
   long it waits.
